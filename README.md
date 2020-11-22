@@ -5,7 +5,7 @@ This is a simple Vocoder whith have four vertical sliders to controlate gains of
 ![](interfaz%20Vocoder.PNG)
 
 # Bugs
-The main bugs in this project are a buzz noise that sound in the output when the modulation is made, and a widely computational charge.
+There are two bugs in this project are a buzz noise that sound in the output when the modulation is made, and a widely computational charge.
 Both bugs will be solved in the next update and moreover the graphical interface will be improved .
 
 # License
