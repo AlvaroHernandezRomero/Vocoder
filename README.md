@@ -1,6 +1,6 @@
 # Vocoder
 
-This is a simple Vocoder which have four vertical sliders to controlate gains of differents carrier signals and modulator signal, also it have a horizontal slider in order to modify the number of bands to make the modulation among carrier and modulator signals.
+This is a simple Vocoder which have four vertical sliders to controlate gains of different carrier signals and modulator signal, also it have a horizontal slider in order to modify the number of bands to make the modulation among carrier and modulator signals.
 
 ![](interfaz%20Vocoder.PNG)
 
